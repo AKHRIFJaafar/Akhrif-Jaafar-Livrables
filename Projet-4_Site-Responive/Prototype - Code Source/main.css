@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+body{
+    background-color: seashell;
+}
+img{
+    margin-bottom: 30px;
+}
+p{
+    margin-bottom: 50px;
+}
+.lorem{
+    color: black;
+    font-family: 'Coda', cursive; 
+    font-size: 18px;   
+    text-align: center;
+
+}
+.title{
+    font-family: 'Kaushan Script', cursive;
+    color: black;
+}
+.color-nav{
+    font-family: 'Delius', cursive;
+    text-align: center;
+    color: black;
+    margin-right: 20px;}
