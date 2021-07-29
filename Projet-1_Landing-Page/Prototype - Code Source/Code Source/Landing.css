@@ -1,0 +1,60 @@
+ body{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+
+}
+.Reserver{
+width: 100%;
+height: 100vh;
+background:url('Logo1.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+display: table;
+}
+.nav{
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 80px;
+  border-bottom: 1px solid   rgb(19, 204, 211);
+}
+.logo img{
+    width: 70px;
+    height: 70px;
+    float: left;
+    padding-left: 15px;
+   
+    
+}
+.menu{
+   float: right;
+   line-height: 50px;
+   margin: 0 6em;
+
+
+
+}
+.menu ul {
+  list-style: none;
+
+}
+.menu ul li {
+   display: inline-block;
+
+}
+.menu ul li a {
+  text-decoration: none ;
+  color:rgb(135,206,250);
+  font-size: 16px;
+  font-weight: lighter;  
+  padding: 0 30px;
+
+}
+
